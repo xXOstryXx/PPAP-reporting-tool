@@ -27,12 +27,12 @@ Reports generator/
 │   ├── DETAL-B.png                 # Drawing for part B
 │   ├── DETAL-C.png                 # Drawing for part C
 │   └── DETAL-D.png                # Drawing for part D
+├── End_page.jpg                    # Rendered back cover for the report
+├── README.md                       # Project documentation
+└── Title_page.jpg                  # Rendered front cover for the report
 ├── characteristics_generator.py    # Script generating mock drawings
 ├── dane_testowe.csv                # Sample dataset(synthetic CMM data)
 ├── data_generator.py               # Script generating synthetic CSV datasets
-├── End_page.jpg                    # Rendered back cover for the report
 ├── pages_generator.py              # Script rendering cover & end pages
 ├── main.py            # Main pipeline and PDF compiler
 ├── raport_statystyczny_2026-09-14.pdf # Output: Final compiled PPAP report
-├── README.md                       # Project documentation
-└── Title_page.jpg                  # Rendered front cover for the report
