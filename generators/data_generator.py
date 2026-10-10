@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-def generate_qc_data(file_name='dane_testowe.csv', n_rows=200):
+def generate_qc_data(file_name='data/dane_testowe.csv', n_rows=200):
     characteristics = ['501', '502', '503', '504', '505', 
                        '506', '507', '508', '509', '510']
     
